@@ -1,9 +1,9 @@
 {
-    "name": "battleship",
+    "name": "battleship-pas",
     "version": "0.0.1",
     "private": true,
     "engines": {
-      "node": "5.1.0"
+      "node": "6.11.5"
     },
     "scripts": {
       "start": "node app"
